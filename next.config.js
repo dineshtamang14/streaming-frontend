@@ -1,0 +1,1 @@
+// next.config.js - Next.js configuration with image optimization, environment variables for API URL, React strict mode enabled, and SWC minification for production builds
