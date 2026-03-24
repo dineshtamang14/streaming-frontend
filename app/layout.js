@@ -1,1 +1,3 @@
-<content for app/layout.js>
+export default function Layout({ children }) {
+  return <div className="layout">{children}</div>;
+}

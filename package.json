@@ -1,1 +1,14 @@
-<content for package.json>
+{
+  "name": "streaming-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "axios": "latest"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.0.0",
+    "postcss": "^8.0.0"
+  }
+}
